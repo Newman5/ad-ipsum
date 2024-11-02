@@ -1,3 +1,6 @@
+#A testing fork of the P2PU Course in a box
+I only got so far with it.  Here is the issue that got me stuck.  https://github.com/p2pu/course-in-a-box/issues/146 .  I plan to loop back around to this... perhaps.  I am try to figure out the best way to support a learning circle in the modern web building way.  
+
 # An open-source project for creating online courses, built by P2PU
 Course-in-a-Box is a free tool for building and publishing online courses — no prior coding experience required. 
 
